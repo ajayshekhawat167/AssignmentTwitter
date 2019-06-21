@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1005642693931",
+    "firebase_url": "https://supervalet-159408.firebaseio.com",
+    "project_id": "supervalet-159408",
+    "storage_bucket": "supervalet-159408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005642693931:android:2f0b5e323879bbea",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005642693931-7bf7m4bhlh4asjblnlf3t518vh0fum69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment",
+            "certificate_hash": "35d0229540c5b856d4a8973dfdfcb687e17cb22a"
+          }
+        },
+        {
+          "client_id": "1005642693931-7n6d4spboe9ldcitvcpomr7tun47uqqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrp2gxFYYOktawT9DS6qQ815MrS4AzvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005642693931-7n6d4spboe9ldcitvcpomr7tun47uqqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
